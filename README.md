@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حاجة جوة قلبي بتناديك
+> روحي يا حبيبي بتروح ليك
+> كل دقة فيا بتحس بيك
+> ولآخر عمري هفضل شاريك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
