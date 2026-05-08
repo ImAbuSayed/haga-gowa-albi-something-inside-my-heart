@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Haga Gowa Albi – Something inside my heart
+
+This log tracks the cryptographic history and versioning for the song **Haga Gowa Albi – Something inside my heart** (haga-gowa-albi-something-inside-my-heart).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:32:31.225800 | `v1` | `a4a35fe2cc366ce60b24cf6eb09bad8e9e44569a4dbd3658a6cf13ffe17c8d6e` | `6c89df0968e3321ddd20573a0869810efc579d78c5d6ae499b78a38155962fd9` | `2026-05-09_haga-gowa-albi-something-inside-my-heart-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
